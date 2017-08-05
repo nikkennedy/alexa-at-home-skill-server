@@ -1,0 +1,20 @@
+{
+	"name": "alexa-at-home-skill-server",
+	"version": "1.0.0",
+	"description": "A server allowing you to developer and run your own amazon alexa skills that match Amazon lambda examples",
+	"main": "server.js",
+	"author": "Nik Kennedy <github@hzdev.net>",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/alexa-at-home-skill-server"
+	},
+	"license": "MIT",
+	"dependencies": {
+		"express": "^4.14.1",
+		"body-parser": "^1.16.1",
+		"aws-lambda-mock-context": "^3.1.1",
+		"request": "^2.81.0",
+		"alexa-sdk": "^1.0.11",
+		"async": "^2.5.0"
+	}
+}

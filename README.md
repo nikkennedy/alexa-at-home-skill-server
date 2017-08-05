@@ -8,7 +8,7 @@ cd alexa-at-home-skill-server
 npm install
 ```
 
-2. Change config.js to match your own internal network port that routes to an internat accessable 443 port 
+2. Change config.js to match your own internal network port that routes to an internet accessable https 443 port 
 
 3. Add your SSL certificate and private key to the sslcert directory - these can be got from [Lets Encrypt](https://letsencrypt.org) for free.
 

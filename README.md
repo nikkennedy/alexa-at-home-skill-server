@@ -1,5 +1,5 @@
 # alexa-at-home-skill-server
-A nodejs server for developing/running your own amazon alexa skills very easily using the Amazon alexa-sdk
+A nodejs server for developing/running your own amazon alexa skills very easily using the Amazon alexa-sdk. So there is no need to keep uploading code to an AWS Lambda system, all your code now remains on your server.
 
 1. Clone a copy of this repository
 ```bash
